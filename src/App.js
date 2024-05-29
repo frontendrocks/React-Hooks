@@ -1,14 +1,14 @@
 
 import './App.css';
-import UseMemoHook from './hooks/UseMemoHook';
+// import UseMemoHook from './hooks/UseMemoHook';
+import UseCallBack from './hooks/UseCallBack';
 function App() {
   return (
-     <UseMemoHook />
+    //  <UseMemoHook />
+    <UseCallBack />
    )
   
 }
-
-
 
 export default App;
 
